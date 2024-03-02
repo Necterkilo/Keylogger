@@ -25,6 +25,7 @@ Or, view the `README.md` file in each programs folder for more up to date inform
 
 ## Windows
 To change visibility of the window set the `#define` in line 13 to `visible` or `invisible`.
+The visibility is now set to invisible by default.
 
 Simply compile into an .exe, and then run. Visual Studio is good for this.
 
